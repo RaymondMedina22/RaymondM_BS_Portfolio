@@ -3,7 +3,7 @@ Robot uses computer vision to identify the color of the ball alongside using a u
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Raymond M| Current Highschool | Mechanical Engineering | Incoming Senior
+| Raymond M| University of Wisconsin - Madison | Industrial Engineering | Sophomore 
 
 ![Headstone Image](https://user-images.githubusercontent.com/86113507/124283036-734ca400-db19-11eb-981c-386359f8b74b.jpeg)
 ![Headstone Image](https://cdn-shop.adafruit.com/970x728/4296-11.jpg)
