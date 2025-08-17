@@ -27,7 +27,7 @@ My first milestone was setting up the four motors used for my robot making sure 
 
 After completing this project it showed me that there are many challenges that are faced when trying to do engineering from mechanical problems to having to do code debugging. However, the challenges that are faced when engineering are enjoyable and fun, essential the excitement that is felt when your solving your problem.
 
-# Cricuit Diagram of Raspberry connected to Ultrasonic sensor
+# Circuit Diagram of Control System
 
 ![Image 6-25-21 at 11 08 AM](https://user-images.githubusercontent.com/86113507/123448241-b1d9e000-d5a8-11eb-912a-e35c41b8e109.jpg)
 # Code
